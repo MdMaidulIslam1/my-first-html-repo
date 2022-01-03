@@ -1,0 +1,26 @@
+h1{
+    color: rgb(235, 119, 12);
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.him{
+    color: rgb(0, 14, 211);
+    background-color: rgb(135, 34, 139);
+    font-size: large;
+    border: 30px solid blue ;
+    border-radius: 15px;
+    padding: 30px;
+    width: 50%;
+    height: 300;
+    margin: 50px auto;
+    text-align: justify;
+}
+.alo{
+    color: red;
+}
+
+div p{
+    color: greenyellow;
+}
